@@ -2,7 +2,7 @@ const pages = document.querySelectorAll('.page');
 const $ = id => document.getElementById(id);
 
 // ===== EASY EDIT SETTINGS =====
-const secretCode = 'billu';
+const secretCode = 'billujii19';
 const introText = 'Every memory with you is a beautiful chapter of my life, Billu Jii. 💜';
 const letterText = `Happy Birthday, Billu Jii! 🎂💜\n\nToday is your day, and I wanted to make something a little different for you.\n\nMay this new year of your life bring you countless reasons to smile, beautiful memories to keep, and all the happiness you deserve.\n\nMay Allah protect you, keep you healthy and happy, and make every step ahead beautiful.\n\nOnce again — Happy Birthday, Khushi. 💜\n\nAnd now… your little BTS surprise. 😌✨`;
 
