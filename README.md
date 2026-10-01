@@ -3,7 +3,7 @@
 Mobile-friendly static birthday website for Acode + GitHub Pages.
 
 ## Password
-`billu`
+`billujii19`
 
 ## BTS card photos
 Put these seven files inside `BTS/`:
